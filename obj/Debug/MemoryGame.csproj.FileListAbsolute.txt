@@ -1,0 +1,11 @@
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\aleks\OneDrive\Desktop\Code\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
